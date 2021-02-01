@@ -1,7 +1,7 @@
 ---
 title: 'Reproducible research Workshop: <Master IDEAS/ IUVTT / 3A1>'
 author:
-- name: John, the Problem Solver
+- name: Florian, the Problem Solver
   affiliation: Université de Lorraine
 date: "`r Sys.Date()`"
 output: html_document
